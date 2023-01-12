@@ -24,7 +24,7 @@ Netlify
 
 "build": "CI= react-scripts build",
 
-```
+
 
 
 
