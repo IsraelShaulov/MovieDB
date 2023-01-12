@@ -22,7 +22,6 @@ https://www.omdbapi.com/
 Netlify
 
 
-"build": "CI= react-scripts build",
 
 
 
