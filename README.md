@@ -9,7 +9,7 @@
 - When a query doesn't have any movies matching, it still shows the old list but it shows an **error** message below the search form and API handles it.
 - To run the project locally, clone the repo, `npm install` to install the dependencies and `npm start` to start up the development server on default port 3000.
 
-#### Languages
+#### Languages / Technologies / Libraries
 
 HTML, CSS, JavaScript, React ~ Context API - Hooks ~ useState, useEffect, useFetch Custom Hook, React Router 6, Axios
 
